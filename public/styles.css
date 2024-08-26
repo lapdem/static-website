@@ -9,16 +9,18 @@ body {
     margin: 0 auto;
 }
 
-.text{text-align: justify;}
+.text {text-align: justify;}
 
-#quote{
+#quote {
     text-align: left;
     font-style: italic;
+    margin-bottom:  4vh;
 }
 
-.placeholder { height: 5vh; }
-
-.small-placeholder { height: 2vh; }
+#link-container {
+    margin-top:  5vh;
+    margin-bottom:  5vh;    
+}
 
 .links{
     padding: 32px;
