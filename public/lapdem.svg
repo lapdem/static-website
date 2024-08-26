@@ -1,0 +1,18 @@
+<svg version="1.1"
+     width="512" height="512"
+     xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="white" />
+<clipPath id="triangle">
+<polygon points="106,448 416,448 256,64 106,448" />
+ </clipPath>
+<path fill="transparent" stroke="black" stroke-width="16" d="M106 448 L 416 448 L 256 64 L106 448 Z"/>
+<path clip-path="url(#triangle)" fill="transparent" stroke="black" stroke-width="48" d="M106 448 L 416 448 L 256 64"/>
+<path fill="transparent" stroke="black" stroke-width="16" d="M293 152 A 96 96 0 0 1 367 330" />
+<polygon stroke="black" points="287,185 251,224 304,229"  />
+<polygon stroke="black" points="304,229 269,268 322,273"/>
+<polygon stroke="black" points="322,273 287,312 339,316"/>
+
+<circle  stroke="black" cx="339" cy="189" r="8"/>
+<circle stroke="black" cx="374" cy="277" r="8"/>
+
+</svg>

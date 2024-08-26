@@ -1,0 +1,26 @@
+body {
+    font-family: 'Century Gothic', sans-serif;    
+    text-align:center;
+    margin:5%;
+}
+
+#outer {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.text{text-align: justify;}
+
+#quote{
+    text-align: left;
+    font-style: italic;
+}
+
+.placeholder { height: 5vh; }
+
+.small-placeholder { height: 2vh; }
+
+.links{
+    padding: 32px;
+}
+
